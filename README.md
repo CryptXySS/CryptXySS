@@ -1,6 +1,6 @@
 ---
 
-### Sistemi operativi
+#### Sistemi operativi
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/arch-dark.svg?height=36" alt="Archlinux" />
