@@ -1,7 +1,5 @@
 ---
 
-# Competenze tecniche
-
 ### Sistemi operativi
 
 <p align="center">
@@ -9,7 +7,7 @@
   <img src="https://api.iconify.design/skill-icons/kali-dark.svg?height=36" alt="Kali Linux" />
   <img src="https://api.iconify.design/skill-icons/windows-dark.svg?height=36" alt="Windows" />
 </p>
-
+---
 ### Shell & Scripting
 
 <p align="center">
