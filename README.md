@@ -48,6 +48,8 @@
   <img src="https://api.iconify.design/skill-icons/supabase-dark.svg?height=36" alt="Supabase" />
   <img src="https://api.iconify.design/skill-icons/docker.svg?height=36" alt="Docker" />
   <img src="https://api.iconify.design/skill-icons/postman.svg?height=36" alt="Postman" />
+    <img src="https://api.iconify.design/skill-icons/materialui-dark.svg?height=36" alt="materialui-dark" />
+      <img src="https://api.iconify.design/skill-icons/materialui-dark.svg?height=36" alt="Postman" />
   <img src="https://api.iconify.design/skill-icons/cloudflare-dark.svg?height=36" alt="Cloudflare" />
 </p>
 
