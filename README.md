@@ -1,12 +1,3 @@
-<p align="center">
-  💻 Developer • ⚙️ SysAdmin • 🧠 Tech Enthusiast
-</p>
-
-<p align="center">
-  🎯 Appassionato di sicurezza informatica, sviluppo full-stack e automazione.  
-  🚀 Costruisco tool, bot e applicazioni web con tecnologie moderne e open source.
-</p>
-
 ---
 
 <p align="center">
@@ -59,14 +50,7 @@
   <img src="https://api.iconify.design/skill-icons/cloudflare-dark.svg?height=36" alt="Cloudflare" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptXySS&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptXySS&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-</p>
-
----
 
 
 <p align="center">
