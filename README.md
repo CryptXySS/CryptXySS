@@ -44,6 +44,7 @@
   <img src="https://api.iconify.design/skill-icons/npm-dark.svg?height=36" alt="Npm" />
   <img src="https://api.iconify.design/skill-icons/vercel-dark.svg?height=36" alt="Vercel" />
   <img src="https://api.iconify.design/skill-icons/aws-dark.svg?height=36" alt="Aws" />
+    <img src="https://api.iconify.design/skill-icons/redis-dark?height=36" alt="Redis" />
   <img src="https://api.iconify.design/skill-icons/supabase-dark.svg?height=36" alt="Supabase" />
   <img src="https://api.iconify.design/skill-icons/docker.svg?height=36" alt="Docker" />
   <img src="https://api.iconify.design/skill-icons/postman.svg?height=36" alt="Postman" />
