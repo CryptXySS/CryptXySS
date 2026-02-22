@@ -10,14 +10,16 @@
 
 ---
 
-### Shell & Scripting
+#### Shell & Scripting
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/bash-dark.svg?height=36" alt="Bash" />
   <img src="https://api.iconify.design/skill-icons/powershell-dark.svg?height=36" alt="PowerShell" />
 </p>
 
-### Linguaggi
+---
+
+#### Linguaggi
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt=".NET / C#" />
