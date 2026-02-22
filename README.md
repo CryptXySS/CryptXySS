@@ -28,7 +28,9 @@
   <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
 </p>
 
-### Editor & IDE
+---
+
+#### Editor & IDE
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/vscode-dark.svg?height=36" alt="VSCode" />
@@ -36,7 +38,9 @@
   <img src="https://api.iconify.design/skill-icons/neovim-dark.svg?height=36" alt="Neovim" />
 </p>
 
-### Web / Frontend
+---
+
+#### Web / Frontend
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/html.svg?height=36" alt="HTML" />
@@ -48,7 +52,9 @@
   <img src="https://api.iconify.design/skill-icons/nextjs-dark.svg?height=36" alt="Next.js" />
 </p>
 
-### Backend / DB / Infra
+---
+
+#### Backend / DB / Infra
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/mysql-dark.svg?height=36" alt="MySQL" />
@@ -60,7 +66,9 @@
   <img src="https://api.iconify.design/skill-icons/vercel-dark.svg?height=36" alt="Vercel" />
 </p>
 
-### Community & Tooling
+---
+
+#### Community & Tooling
 
 <p align="center">
   <img src="https://api.iconify.design/skill-icons/discord.svg?height=36" alt="Discord" />
